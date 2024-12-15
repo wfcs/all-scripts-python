@@ -4,7 +4,8 @@ Este repositório contém uma coleção de scripts desenvolvidos para diferentes
 
 ## Descrição dos Arquivos
 
-### 1. GerarDadosFakes.py
+### 1. [Gerar Dados Fakes](https://github.com/wfcs/all-scripts-python/blob/main/GerarDadosFakes.py)
+
 Um script para gerar dados logísticos fictícios, como pedidos, datas de envio, distâncias, transportadoras, entre outros, e salvar o resultado em um arquivo CSV.
 
 - **Funcionalidades**:
@@ -19,7 +20,7 @@ Um script para gerar dados logísticos fictícios, como pedidos, datas de envio,
 
 ---
 
-### 2. Materiais_de_agricultura.ipynb
+### 2. [Materiais de agricultura](https://github.com/wfcs/all-scripts-python/blob/main/Materiais_de_agricultura.ipynb)
 Este notebook interativo analisa materiais relacionados à agricultura. Ele combina análises estatísticas, visualizações e manipulações de dados para explorar informações relevantes (detalhes mais específicos podem ser adicionados após revisão do conteúdo completo).
 
 - **Possíveis Funcionalidades**:
@@ -29,7 +30,7 @@ Este notebook interativo analisa materiais relacionados à agricultura. Ele comb
 
 ---
 
-### 3. NotebookPipelineFabric.py
+### 3. Pipeline Fabric - Notebook
 Este script implementa uma pipeline de dados que conecta a um ambiente de SharePoint para leitura e transformação de arquivos Excel, e carrega os dados processados em um banco de dados.
 
 - **Funcionalidades**:
@@ -43,7 +44,7 @@ Este script implementa uma pipeline de dados que conecta a um ambiente de ShareP
 
 ---
 
-### 4. ProgramasInstall.py
+### 4. [Instalar Varios Programas](https://github.com/wfcs/all-scripts-python/blob/main/programs-install.py)
 Um script em Python para instalação e atualização automatizada de softwares agrupados por categorias (jogos, trabalho ou ambos).
 
 - **Funcionalidades**:
@@ -100,6 +101,7 @@ Um script em Python para instalação e atualização automatizada de softwares 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
----
+--- 
 
-**Desenvolvido por:** Felipe Dovinho
+**Desenvolvido por:**  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedovinho/) 
+
