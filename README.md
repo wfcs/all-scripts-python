@@ -30,7 +30,7 @@ Este notebook interativo analisa materiais relacionados à agricultura. Ele comb
 
 ---
 
-### 3. Pipeline Fabric - Notebook
+### 3. [Pipeline Fabric - Notebook](https://github.com/wfcs/all-scripts-python/blob/main/NotebookPipelineFabric.py)
 Este script implementa uma pipeline de dados que conecta a um ambiente de SharePoint para leitura e transformação de arquivos Excel, e carrega os dados processados em um banco de dados.
 
 - **Funcionalidades**:
