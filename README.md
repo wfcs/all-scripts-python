@@ -1,4 +1,4 @@
-# all-scripts-python - Gerador de Dados e Ferramentas Automatizadas
+# all-scripts-python
 
 Este repositório contém uma coleção de scripts desenvolvidos para diferentes finalidades, incluindo geração de dados fictícios, automação de pipelines de dados, instalação de softwares e organização de dados em notebooks interativos.
 
